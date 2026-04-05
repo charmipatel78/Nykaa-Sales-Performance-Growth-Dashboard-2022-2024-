@@ -90,4 +90,5 @@ Nykaa-Data-Analysis/
 │
 ├── Nykaa project.ipynb
 ├── Project Nykaa.xlsx
+├── Nykaa dashboard image.png   
 └── README.md
