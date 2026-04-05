@@ -54,6 +54,10 @@ File: `Project Nykaa.xlsx`
 
 ---
 
+## Dashboard Preview
+
+![Dashboard Preview](Nykaa dashboard image.png)
+
 ## Key Insights
 
 - Identified top-performing categories contributing maximum sales  
