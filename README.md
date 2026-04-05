@@ -1,65 +1,68 @@
-📊 Nykaa Data Analysis Project
+📊 Nykaa Sales Data Analysis Dashboard
 
-📌 Project Overview
-This project focuses on analyzing the Nykaa dataset to extract meaningful business insights.
-The workflow includes data cleaning using Python and interactive dashboard creation using Excel.
+This project presents an interactive Sales Analysis Dashboard based on the Nykaa dataset.
+The data was cleaned using Python and visualized using Microsoft Excel to generate meaningful business insights.
 
-The objective of this project is to understand sales performance, product trends, and category-wise analysis.
+The dashboard provides a clear view of sales performance, product categories, trends, and overall business behavior to support data-driven decision-making.
 
-🧹 Data Cleaning (Python - Jupyter Notebook)
-The dataset was cleaned and processed using Python in Jupyter Notebook.
+📌 Objective
+Analyze sales data efficiently
+Understand product and category performance
+Identify high and low-performing areas
+Track sales trends and patterns
+Provide actionable business insights through visualization
 
-🔹 Steps Performed:
-Removed missing (null) values
+🧹 Data Cleaning (Python)
+Data preprocessing and cleaning were performed using Python in Jupyter Notebook.
+
+Removed missing/null values
 Handled duplicate records
-Converted data types (date, numeric, etc.)
-Cleaned and formatted columns
-Prepared structured dataset for analysis
-🛠 Libraries Used:
-pandas
-numpy
+Converted and formatted data types
+Cleaned column names and structured the dataset
+Prepared final dataset for analysis
 
 📁 File: Nykaa project.ipynb
 
-
 📊 Dashboard (Excel)
-After cleaning the data, an interactive dashboard was created in Excel.
+An interactive dashboard was created using Microsoft Excel after data cleaning.
 
-🔹 Dashboard Features:
-Pivot Tables
-Charts (Bar Chart, Pie Chart, Line Chart)
-Slicers for dynamic filtering
-KPI indicators
-
-🔹 Analysis Included:
-Overall sales performance
-Category-wise analysis
-Product performance
-Sales trends over time
+Pivot Tables & Pivot Charts
+Slicers (Interactive Filters)
+KPI Indicators
+Dynamic Charts (Bar, Pie, Line)
+Dashboard Design & Formatting
 
 📁 File: Project Nykaa.xlsx
 
+📈 Key Dashboard Metrics
+Total Sales
+Category-wise Sales
+Product Performance
+Sales Trends Over Time
+Top & Low Performing Categories
+
 💡 Key Insights
-Identified high-performing product categories
-Highlighted low-performing areas needing improvement
-Analyzed sales trends and patterns
-Derived insights for better business decision-making
+Identified top-performing categories contributing maximum sales
+Highlighted low-performing areas that need improvement
+Observed sales trends and seasonal patterns
+Provided insights to improve business performance
 
 🚀 Conclusion
-This project demonstrates an end-to-end data analysis workflow:
+This project demonstrates a complete data analysis workflow:
 
 Data Cleaning → Data Processing → Dashboard Creation → Insights Generation
 
-It helps in understanding business performance and supports data-driven decisions.
+It helps in understanding business performance and supports better decision-making using data.
 
-📁 Project Structure
-Nykaa-Data-Analysis/
-│
-├── Nykaa project.ipynb   # Python data cleaning
-├── Project Nykaa.xlsx    # Excel dashboard with charts & KPIs
-└── README.md             # Project documentation
-
-🛠 Tools & Technologies
+🛠 Tools & Techniques Used
 Python (Pandas, NumPy)
 Jupyter Notebook
 Microsoft Excel
+Pivot Tables & Charts
+Slicers & KPI Metrics
+
+Nykaa-Data-Analysis/
+│
+├── Nykaa project.ipynb   # Python data cleaning
+├── Project Nykaa.xlsx    # Excel dashboard
+└── README.md             # Documentation
