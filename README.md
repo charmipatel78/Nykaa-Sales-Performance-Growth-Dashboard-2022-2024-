@@ -56,7 +56,7 @@ File: `Project Nykaa.xlsx`
 
 ## Dashboard Preview
 
-![Dashboard Preview](Dashboard image/Nykaa-dashboard- image.png)
+![Dashboard Preview](Dashboard image/dashboard.png)
 
 ## Key Insights
 
